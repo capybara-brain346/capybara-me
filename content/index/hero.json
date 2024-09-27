@@ -1,32 +1,36 @@
 {
-	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
-		"speed": 60,
-		"deletionSpeed": 80,
-		"wrapper": "h2",
-		"startDelay": 1000,
-		"deleteDelay": 3000,
-		"restartDelay": 12000
-	},
+  "intro": {
+    "start": "👋🏽👋🏽👋🏽",
+    "end": "Hello, my name is",
+    "speed": 60,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
 
-	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
-	},
+  "header": {
+    "name": "Piyush Choudhari."
+  },
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+  "paragraph": "Python Dev & Data Analyst Based In India 🇮🇳.",
 
-	"buttons": {
-		"primary": {
-			"title": "Contact Me",
-			"url": "",
-			"leaveSite": false
-		},
-		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
-			"leaveSite": "true"
-		}
-	}
+  "buttons": {
+    "primary": {
+      "title": "Contact Me",
+      "url": "",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "LinkedIn",
+      "url": "",
+      "leaveSite": "true"
+    },
+    "third": {
+      "title": "GitHub",
+      "url": "",
+      "leaveSite": "true"
+    }
+  }
 }
